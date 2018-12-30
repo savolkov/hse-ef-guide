@@ -30,10 +30,10 @@ Entity Framework предполагает три возможных способ
 
 Для того, чтобы ваш проект мог работать с базой данных через Entity Framework, вам необходимо установить в свой проект NuGet пакет Entity Framework 6 следующим образом:
 
-1. ПКМ по проекту, затем, в контекстном меню нужно выбрать "Manage NuGet packages"![Manage NuGet packages](img\manageNuGet.png)
+1. ПКМ по проекту, затем, в контекстном меню нужно выбрать "Manage NuGet packages"![Manage NuGet packages](img/manageNuGet.png)
 2. В менеджере пакетов перейти на вкладку "Browse", найти  EntityFramework и нажать кнопку "Установить".
    Стоит отметить, что, возможно,  Entity Framework уже установлен в ваш проект, в таком случае вы можете его обновить.
-   ![Package Manager](img\installNuGet.png)
+   ![Package Manager](img/installNuGet.png)
 
 Поздравляю, мы сделали самое важное -- положили начало продуктивной работе над приложением базы данных.
 
